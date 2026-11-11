@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,50:10b981,100:06b6d4&height=150&section=header&text=Nizam%20Uddin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20Systems%20Builder&descAlignY=63&descSize=16" alt="Nizam Uddin Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,50:10b981,100:06b6d4&height=150&section=header&text=Nizam%20Uddin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20Full-Stack%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Systems%20Builder&descAlignY=63&descSize=16" alt="Nizam Uddin Header" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%40+MSR+Creation;Next.js+%C2%B7+Node.js+%C2%B7+Prisma+%C2%B7+PostgreSQL;Local+LLMs+%26+Low-Latency+Systems+Tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Junior+Full-Stack+Engineer+%40+FoundExe;Next.js+%C2%B7+Node.js+%C2%B7+Prisma+%C2%B7+PostgreSQL;Local+LLMs+%26+Low-Latency+Systems+Tooling" alt="Typing SVG" />
 
   <p>
+    <a href="https://www.foundexe.com">
+      <img height="28" src="https://img.shields.io/badge/FoundExe-0F172A?style=for-the-badge&logo=googlechrome&logoColor=10B981" alt="FoundExe" />
+    </a>
     <a href="https://www.linkedin.com/in/nizam-uddin-50524a213/">
       <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -19,12 +22,12 @@
 
 ### 👋 About Me
 
-I'm **Nizam Uddin** (`@squallenix`), a **Full-Stack Developer** and **B.Sc. in Computer Science & Engineering** undergraduate at **Stamford University Bangladesh**, based in Dhaka. I enjoy taking ideas from an empty repository to shipped software—combining clean interfaces, structured REST APIs, on-device AI, and low-level system utilities.
+I'm **Nizam Uddin** (`@squallenix`), a **Junior Full-Stack Engineer** at [**FoundExe**](https://www.foundexe.com) and **B.Sc. in Computer Science & Engineering** undergraduate at **Stamford University Bangladesh**, based in Dhaka. I enjoy taking ideas from an empty repository to shipped software—combining clean interfaces, structured REST APIs, on-device AI, and low-level system utilities.
 
-- 💼 **Currently:** Full-Stack Developer Intern at **MSR Creation** *(June 2026 – Present)*, building features across **Next.js, Prisma, and PostgreSQL**
+- 💼 **Currently:** Junior Full-Stack Engineer at [**FoundExe**](https://www.foundexe.com), shipping full-stack web products with **Next.js, Prisma, and PostgreSQL**
 - 🧠 **Exploring:** On-device LLMs, multimodal emotion recognition, and ultra-low latency Windows networking & display tooling
 - 💬 **Ask me about:** TypeScript, React / Next.js, Node.js / Express, PostgreSQL, Python AI tooling, and C / Windows utilities
-- 🤝 **Open to:** Internships, junior software engineering roles, and interesting collaborations
+- 🤝 **Open to:** Interesting collaborations, open-source projects, and engineering discussions
 
 ---
 
