@@ -74,3 +74,4 @@ I'm **Nizam Uddin** (`@squallenix`), a **Junior Full-Stack Engineer** at [**Foun
   <img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=squallenix&show_icons=true&hide_border=true&bg_color=00000000&title_color=10b981&icon_color=06b6d4&text_color=8b949e&ring_color=10b981" alt="squallenix GitHub Stats" />
   <img height="175" src="https://streak-stats.demolab.com?user=squallenix&hide_border=true&background=00000000&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideLabels=8B949E&currStreakNum=10B981&sideNums=8B949E&dates=6E7681" alt="squallenix GitHub Streak" />
 </div>
+google-site-verification: googlece06e89c05729eb1.html
