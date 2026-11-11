@@ -49,7 +49,7 @@ I'm **Nizam Uddin** (`@squallenix`), a **Full-Stack Developer** and **B.Sc. in C
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**`edu-app`**](https://github.com/squallenix/edu-app) | Role-based education platform for admins, teachers, and students supporting online exams, classes, and resource management | `TypeScript` `Next.js` `React` `PostgreSQL` |
-| [**`prisma-pg_backend_structure`**](https://github.com/squallenix/prisma-pg_backend_structure) | Modular Prisma + PostgreSQL car-rental REST API powering an admin web panel and customer/driver mobile apps with JWT auth and Joi validation | `Node.js` `Express 5` `Prisma` `PostgreSQL` |
+| [**`prisma-pg_backend_structure`**](https://github.com/squallenix/prisma-pg_backend_structure) | Layered, auto-wired Express 5 + Prisma + PostgreSQL REST API architecture with versioned module discovery, JWT RBAC, Joi validation, and global error handling | `Node.js` `Express 5` `Prisma` `PostgreSQL` |
 | [**`donation_site`**](https://github.com/squallenix/donation_site) | Crowdfunding and donation platform for creating campaigns and tracking contributions | `TypeScript` `Next.js` `React` |
 | [**`wp-counter-plugin`**](https://github.com/squallenix/wp-counter-plugin) | Lightweight WordPress counter plugin featuring a Settings API admin panel, `[counter]` shortcode, and REST/AJAX updates | `PHP` `WordPress` `REST/AJAX` |
 | [**`personal-portfolio`**](https://github.com/squallenix/personal-portfolio) | Personal developer portfolio with light/dark theming and interactive project showcases | `Next.js 16` `React 19` `Tailwind v4` |
