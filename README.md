@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,50:10b981,100:06b6d4&height=150&section=header&text=Nizam%20Uddin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Systems%20Builder&descAlignY=63&descSize=16" alt="Nizam Uddin Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,50:10b981,100:06b6d4&height=150&section=header&text=Nizam%20Uddin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20Systems%20Builder&descAlignY=63&descSize=16" alt="Nizam Uddin Header" width="100%" />
 
-  <a href="https://github.com/squallenix">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%40+MSR+Creation;Next.js+%C2%B7+Node.js+%C2%B7+Prisma+%C2%B7+PostgreSQL;Local+LLMs+%26+Low-Latency+Systems+Tooling" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%40+MSR+Creation;Next.js+%C2%B7+Node.js+%C2%B7+Prisma+%C2%B7+PostgreSQL;Local+LLMs+%26+Low-Latency+Systems+Tooling" alt="Typing SVG" />
 
   <p>
     <a href="https://www.linkedin.com/in/nizam-uddin-50524a213/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:squallenix12@gmail.com">
-      <img src="https://img.shields.io/badge/Email-squallenix12%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img height="28" src="https://img.shields.io/badge/Email-squallenix12%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-0F172A?style=for-the-badge&logo=googlemaps&logoColor=10B981" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=squallenix&color=10b981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img height="28" src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-0F172A?style=for-the-badge&logo=googlemaps&logoColor=10B981" alt="Location" />
+    <img height="28" src="https://komarev.com/ghpvc/?username=squallenix&color=10b981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
 
@@ -51,7 +49,7 @@ I'm **Nizam Uddin** (`@squallenix`), a **Full-Stack Developer** and **B.Sc. in C
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**`edu-app`**](https://github.com/squallenix/edu-app) | Role-based education platform for admins, teachers, and students supporting online exams, classes, and resource management | `TypeScript` `Next.js` `React` `PostgreSQL` |
-| [**`car_rent_backend_structure`**](https://github.com/squallenix/car_rent_backend_structure) | Modular car-rental REST API powering an admin web panel and customer/driver mobile apps with JWT auth and Joi validation | `Node.js` `Express 5` `Prisma` `PostgreSQL` |
+| [**`prisma-pg_backend_structure`**](https://github.com/squallenix/prisma-pg_backend_structure) | Modular Prisma + PostgreSQL car-rental REST API powering an admin web panel and customer/driver mobile apps with JWT auth and Joi validation | `Node.js` `Express 5` `Prisma` `PostgreSQL` |
 | [**`donation_site`**](https://github.com/squallenix/donation_site) | Crowdfunding and donation platform for creating campaigns and tracking contributions | `TypeScript` `Next.js` `React` |
 | [**`wp-counter-plugin`**](https://github.com/squallenix/wp-counter-plugin) | Lightweight WordPress counter plugin featuring a Settings API admin panel, `[counter]` shortcode, and REST/AJAX updates | `PHP` `WordPress` `REST/AJAX` |
 | [**`personal-portfolio`**](https://github.com/squallenix/personal-portfolio) | Personal developer portfolio with light/dark theming and interactive project showcases | `Next.js 16` `React 19` `Tailwind v4` |
