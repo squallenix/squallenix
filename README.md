@@ -20,18 +20,18 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 I'm **Nizam Uddin** (`@squallenix`), a **Junior Full-Stack Engineer** at [**FoundExe**](https://www.foundexe.com) and **B.Sc. in Computer Science & Engineering** undergraduate at **Stamford University Bangladesh**, based in Dhaka. I enjoy taking ideas from an empty repository to shipped software—combining clean interfaces, structured REST APIs, on-device AI, and low-level system utilities.
 
-- 💼 **Currently:** Junior Full-Stack Engineer at [**FoundExe**](https://www.foundexe.com), shipping full-stack web products with **Next.js, Prisma, and PostgreSQL**
-- 🧠 **Exploring:** On-device LLMs, multimodal emotion recognition, and ultra-low latency Windows networking & display tooling
-- 💬 **Ask me about:** TypeScript, React / Next.js, Node.js / Express, PostgreSQL, Python AI tooling, and C / Windows utilities
-- 🤝 **Open to:** Interesting collaborations, open-source projects, and engineering discussions
+- **Currently:** Junior Full-Stack Engineer at [**FoundExe**](https://www.foundexe.com), shipping full-stack web products with **Next.js, Prisma, and PostgreSQL**
+- **Exploring:** On-device LLMs, multimodal emotion recognition, and ultra-low latency Windows networking & display tooling
+- **Ask me about:** TypeScript, React / Next.js, Node.js / Express, PostgreSQL, Python AI tooling, and C / Windows utilities
+- **Open to:** Interesting collaborations, open-source projects, and engineering discussions
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,prisma,postgres,mongodb,sqlite,python,java,c,cpp,php,git,linux&perline=9" alt="Tech Stack Icons" />
@@ -46,9 +46,9 @@ I'm **Nizam Uddin** (`@squallenix`), a **Junior Full-Stack Engineer** at [**Foun
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🌐 Full-Stack & Web Platforms
+#### Full-Stack & Web Platforms
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**`edu-app`**](https://github.com/squallenix/edu-app) | Role-based education platform for admins, teachers, and students supporting online exams, classes, and resource management | `TypeScript` `Next.js` `React` `PostgreSQL` |
@@ -57,7 +57,7 @@ I'm **Nizam Uddin** (`@squallenix`), a **Junior Full-Stack Engineer** at [**Foun
 | [**`wp-counter-plugin`**](https://github.com/squallenix/wp-counter-plugin) | Lightweight WordPress counter plugin featuring a Settings API admin panel, `[counter]` shortcode, and REST/AJAX updates | `PHP` `WordPress` `REST/AJAX` |
 | [**`personal-portfolio`**](https://github.com/squallenix/personal-portfolio) | Personal developer portfolio with light/dark theming and interactive project showcases | `Next.js 16` `React 19` `Tailwind v4` |
 
-#### 🤖 AI, Systems & Desktop Tooling
+#### AI, Systems & Desktop Tooling
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**`wireless-multi-display`**](https://github.com/squallenix/wireless-multi-display) | **AegisDisplay** — Low-latency wireless multi-display system (~8–15 ms) turning laptops, phones, or tablets into extended Windows screens over Wi-Fi/LAN | `JavaScript` `IddCx` `Windows` |
@@ -68,10 +68,10 @@ I'm **Nizam Uddin** (`@squallenix`), a **Junior Full-Stack Engineer** at [**Foun
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=squallenix&show_icons=true&hide_border=true&bg_color=00000000&title_color=10b981&icon_color=06b6d4&text_color=8b949e&ring_color=10b981" alt="squallenix GitHub Stats" />
   <img height="175" src="https://streak-stats.demolab.com?user=squallenix&hide_border=true&background=00000000&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideLabels=8B949E&currStreakNum=10B981&sideNums=8B949E&dates=6E7681" alt="squallenix GitHub Streak" />
 </div>
-google-site-verification: googlece06e89c05729eb1.html
+
